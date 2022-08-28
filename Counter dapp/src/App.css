@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+#connectwallet {
+background-color: white;  
+color: black;  
+font-size: 25px;  
+margin: auto;  
+}
+#getaddress {
+background-color: white;  
+color: black;  
+font-size: 25px;  
+margin: auto;  
+margin-right: 25px;
+}
+#getbalance {
+background-color: white;  
+color: black;  
+font-size: 25px;  
+margin: auto;  
+}
+
+#increasecounter {
+  background-color: white;  
+  color: black;  
+  font-size: 25px;  
+  margin: auto;  
+  margin-right: 25px;
+  }
+  #decreasecounter {
+  background-color: white;  
+  color: black;  
+  font-size: 25px;  
+  margin: auto;  
+  }
+  #showcounter {
+background-color: white;  
+color: black;  
+font-size: 25px;  
+margin: auto;  
+margin-right: 25px;
+
+  }
+  
