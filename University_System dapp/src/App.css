@@ -1,0 +1,141 @@
+.App {
+  text-align: center;
+}
+
+#welcomepage {
+  margin: auto;  
+  background-color:lightcyan;
+  text-align: center;
+}
+
+#connectwallet {
+  line-height: 30px;
+  width: 150px;
+  font-size: 12pt;
+  margin: auto;  
+  font-weight: bold;
+  top:5;
+  right:0;
+}
+#registerprofessor {
+  line-height: 30px;
+  width: 165px;
+  font-size: 12pt;
+  font-weight: bold;
+  margin: auto; 
+  margin-right: 25px; 
+  top:5;
+  right:0;
+}
+#registerstudent {
+  line-height: 30px;
+  width: 165px;
+  font-size: 12pt;
+  font-weight: bold;
+  margin: auto;  
+  right:0;
+}
+
+
+#professorpage {
+  margin: auto;  
+  background-color:lightcyan;
+  text-align: center;
+}
+
+#studentaddresslabel{
+  font-size: 15pt;
+  font-weight: bold;
+  margin-right: 12px; 
+}
+#taskdescriptionlabel{
+  font-size: 15pt;
+  font-weight: bold;
+  margin-right: 12px; 
+}
+
+#studentaddress{
+  line-height: 20px;
+}
+#taskdescription{
+  line-height: 20px;
+}
+#assigntask {
+  line-height: 30px;
+  width: 120px;
+  font-size: 13pt;
+  margin: auto;  
+  font-weight: bold;
+  top:5;
+  right:0;
+}
+
+
+#studentpage {
+  margin: auto;  
+  background-color:lightcyan;
+  text-align: center;
+}
+
+#getmytasks {
+  line-height: 30px;
+  width: 120px;
+  font-size: 13pt;
+  margin: auto;  
+  font-weight: bold;
+  top:5;
+  right:0;
+}
+
+
+
+
+#ownerpage {
+  margin: auto;  
+  background-color:lightcyan;
+  text-align: center;
+}
+
+#professoraddresslabel{
+  font-size: 15pt;
+  font-weight: bold;
+  margin-right: 12px; 
+}
+
+#fireprofessor{
+  line-height: 20px;
+}
+
+#fireprofessorbutton {
+  line-height: 30px;
+  width: 160px;
+  font-size: 15pt;
+  margin: auto;  
+  font-weight: bold;
+  top:5;
+  right:0;
+}
+
+
+#getstudents {
+  line-height: 30px;
+  width: 165px;
+  font-size: 14pt;
+  font-weight: bold;
+  margin: auto;  
+  right:0;
+}
+
+#getprofessors {
+  line-height: 30px;
+  width: 165px;
+  font-size: 14pt;
+  font-weight: bold;
+  margin: auto;  
+  right:0;
+}
+
+
+
+
+  
